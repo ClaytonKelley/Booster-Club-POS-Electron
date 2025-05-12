@@ -1,0 +1,5 @@
+BoosterClubPOS/node_modules/
+BoosterClubPOS/dist/
+BoosterClubPOS/.vite/
+BoosterClubPOS/.DS_Store
+BoosterClubPOS/.env
